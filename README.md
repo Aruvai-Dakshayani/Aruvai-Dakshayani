@@ -10,7 +10,7 @@ Python  • Java • Django • React • JavaScript • SQL
 
 <div align="center">
 
-<img src="./Assets/developer-hero.png" alt="Software Developer" width="800">
+<img src="./Assets/developer-hero.png" alt="Software Developer" width="550">
 
 </div>
 👩‍💻 About Me
